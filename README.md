@@ -3,7 +3,8 @@ This project focuses on implementing real-time serial communication between a mi
 
 ## Wiring
 ![image](https://github.com/HaoRanYuan0/AVR-BME-DOGM/assets/121404407/a0a42441-230c-44cc-98ef-b563e72ca5ec)
-('J1' the DOGM204 LCD display)
+
+('J1' is the DOGM204 LCD display)
 
 
 ## Devices used + Datasheets

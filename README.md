@@ -3,8 +3,8 @@ This project focuses on implementing real-time serial communication between a mi
 
 ## Wiring
 ![image](https://github.com/HaoRanYuan0/AVR-BME-DOGM/assets/121404407/a0a42441-230c-44cc-98ef-b563e72ca5ec)
-
 ('J1' the DOGM204 LCD display)
+
 
 ## Devices used + Datasheets
 1. Microcontroller: [AVR128DB48](https://ww1.microchip.com/downloads/en/DeviceDoc/AVR128DB28-32-48-64-DataSheet-DS40002247A.pdf)
